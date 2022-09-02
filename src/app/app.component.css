@@ -1,0 +1,16 @@
+.main {
+    box-sizing: content-box;
+    text-align: center;
+    margin-top: 20px;
+ }
+ input{
+    width: 30%;
+ }
+ ul li{
+    margin-left: 25%;
+    margin-right: 25%;
+    color: brown;
+    border: 1px solid black;  
+ }
+ 
+ 
